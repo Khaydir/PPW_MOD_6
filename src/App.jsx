@@ -6,6 +6,7 @@ import viteLogo from './assets/vite.svg'
 const NAMA_PANGGILAN = 'khaydir'
 const N = 17
 const gayaJudul = {color: '#1F3A5F', fontSize: '28px'}
+
 function App() {
   const jam = 9
 
